@@ -1,0 +1,27 @@
+{
+  "name": "based-md",
+  "version": "1.0.0",
+  "description": "based-md",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nielzie7/based-md.git"
+  },
+  "keywords": [],
+  "author": "nielzie7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nielzie7/based-md/issues"
+  },
+  "homepage": "https://github.com/nielzie7/based-md#readme",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.1.0",
+    "axios": "^0.27.2",
+    "chalk": "4.1.0",
+    "node-fetch": "^2.6.7",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
